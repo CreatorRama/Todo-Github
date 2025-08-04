@@ -1,10 +1,10 @@
-# Frontend Developer Internship Assignment
+# Todo-Github
 
 A modern React application built with Vite, featuring a To-Do manager and GitHub user search functionality. This project demonstrates proficiency in React, Redux Toolkit, React Router, and API integration.
 
 ## 🌟 Live Demo
 
-- **Vercel**: [Add your deployed link here]
+- **Vercel**: [(https://todo-github-mu.vercel.app/)]
 
 ## 🚀 Features
 
