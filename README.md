@@ -253,8 +253,8 @@ This project is created for educational purposes as part of a frontend developer
 ## 👤 Author
 
 **Aman Pandey**
-- GitHub: [@yourusername](https://github.com/CreatorRama)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/aman-pandey-237728259)
+- GitHub: [Github](https://github.com/CreatorRama)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/aman-pandey-237728259)
 - Email:ap410485@gmail.com
 
 ## 🙏 Acknowledgments
